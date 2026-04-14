@@ -47,7 +47,11 @@ This is due to the software, we're doing everything we can to fix it!
 
 ## 🐞 Bugs
 
+- After turning off the Aha Halo the app won't recognize Aha Halo anymore
+- Program names cut off
+
 There are a lot of bugs! BE WARNED!
+
 ## 🖥 How to use
 
 Open [this link](http://ahahalo.github.io/Aha-Halo-Web/) to use the app in your browser.
