@@ -12,3 +12,5 @@ My goal was to provide a smoother and more reliable experience.
 
 Open [this link]([http://localhost:3000](https://jenskauteren.github.io/Aha-Halo-Web)) to view the app in your browser.
 
+
+Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
